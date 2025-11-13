@@ -130,7 +130,7 @@ div.card{
 
 @media (min-width:700px){
   div.card{
-    width: 600px;
+    width: 650px;
     height: 250px;
     display: flex;
   }
@@ -150,6 +150,7 @@ div.card{
     border-radius: 10px 0 0 10px;
     height: 100%;
     width: 100%;
+    background-position: left;
 }
 .writings{
     height: 100%;
